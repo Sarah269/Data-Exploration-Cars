@@ -14,17 +14,6 @@ The following tasks were performed:
 <b>SAS Code</b>
  - https://github.com/Sarah269/Data-Exploration-Cars/blob/main/Cars.sas
 
-<b>Dashboards</b>
-
-- Dealership Sales Dashboard. Tool:  Tableau
-   - https://public.tableau.com/views/Cars_16861032352310/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-<br></br>
-
-<b>Observations:</br>
-- Most profitable in terms of dollars:  Mercedes-Benz, Jacquar, and BMW
-- Best selling by quantity:  Ford, Toyota, and Mercedes-Benz
-- Best selling car type:  Sedan
-
 <b>Data Exploration</b>
 <br></br>
 ![](https://github.com/Sarah269/Data-Exploration-Cars/blob/main/Cars_Variable_Listing.png)
