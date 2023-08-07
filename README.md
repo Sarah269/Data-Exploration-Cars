@@ -11,6 +11,9 @@ The following tasks were performed:
  - What are the 10 expensive cars?
  - Car Pricing Summary
 
+<b>SAS Code</b>
+ - https://github.com/Sarah269/Data-Exploration-Cars/blob/main/Cars.sas
+
 <b>Dashboards</b>
 
 - Dealership Sales Dashboard. Tool:  Tableau
